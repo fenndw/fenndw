@@ -38,7 +38,7 @@ Led a 4‑person team to design and deploy a mid‑complexity network infrastruc
 
 **Tech:** Windows 11, Windows Server 2025, Hyper‑V, OPNsense, Security Onion, Wazuh, MySQL, Unifi gear, DNS/DHCP, Windows Firewall, Rufus imaging  
 
-**Links:** [Repo](#) • [Demo](#)
+**Links:** [Repo](#)
 
 ---
 
@@ -55,7 +55,7 @@ Researched and presented on modern surveillance technologies, focusing on how AI
 
 **Tech:** PowerPoint, cybersecurity communication, AI‑enhanced software, IoT, biometrics, RF analysis  
 
-**Links:**  
+**Links:** [Repo](#)
 
 ---
 
@@ -70,7 +70,7 @@ Simulated a real remote‑support workflow using TeamViewer. Troubleshot and res
 
 **Tech:** TeamViewer, Windows 11, remote troubleshooting  
 
-**Links:**  
+**Links:** [Repo](#)
 
 ---
 
@@ -86,7 +86,7 @@ Created a functional WinPE ISO using Windows 11 Audit Mode, Sysprep, and DISM. S
 
 **Tech:** Sysprep, WinPE, DISM, VMWare, DiskPart, Windows 11 Pro  
 
-**Links:**  
+**Links:**  [Repo](#)
 
 ---
 
@@ -104,7 +104,7 @@ Built a functional small‑office network in VMWare with six virtual machines, c
 
 **Tech:** VMWare, OPNsense, AD DS, MySQL, FTP, NPS, IIS, FSRM, Windows 10/11, Windows Server 2025
 
-**Links:**  
+**Links:**  [Repo](#)
 
 ---
 
@@ -120,7 +120,7 @@ Actively studying for ITIL 4 Foundation and CompTIA A+ certifications to strengt
 
 **Tech:** ITIL 4, CompTIA A+, hardware fundamentals, networking, service management  
 
-**Links:**  
+**Links:**  [Repo](#)
 
 ---
 
