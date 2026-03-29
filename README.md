@@ -26,54 +26,98 @@ I'm a technically driven problem‑solver with experience leading complex integr
 ## Projects
 
 ### **Capstone: Fort Faux**
-**Short description:** Fort Faux consists of a small 4-person team that applies the skills that were gained throughout the IT Systems Management and Security NSCC program - led by myself. The goal of this project was to design and build a well-documented mid-complexity network infrastructure that replicates an educational center. Then once this network was built we ran red team blue team security excersises to stress-test our infrastructure and get comfortable with using our security nodes - built with Security Onion and Wazuh using virtual machines.
+**Overview:**  
+Led a 4‑person team to design and deploy a mid‑complexity network infrastructure simulating an educational center. Built a fully documented environment and ran red‑team/blue‑team exercises to stress‑test our setup.
 
-**Tech:** Windows 11 Client, Windows 11 Security Node, Windows Server 2025, Hyper-V, Windows Firewall, OPNsense, Security Onion, Wazuh, MySQL, Ubiquity Unifi Router and Switch (lite 8 PoE), DNS, DHCP, Rufus (backing up the server with an iso and deploying the image).
+**Highlights:**  
+- Designed and deployed a network using Hyper‑V, Ubiquiti UniFi, Windows 11 Pro, and Windows Server 2025  
+- Built Security Onion and Wazuh nodes for monitoring, alerting, and log analysis  
+- Implemented DNS, DHCP, firewall rules, and endpoint hardening  
+- Conducted incident‑response simulations and documented findings  
+
+**Tech:** Windows 11, Windows Server 2025, Hyper‑V, OPNsense, Security Onion, Wazuh, MySQL, Unifi gear, DNS/DHCP, Windows Firewall, Rufus imaging  
 
 **Links:** [Repo](#) • [Demo](#)
 
 ---
 
 ### **Emerging Tech: Surveillance Technology Presentation**
-**Short description:** I researched and created a presentation about emerging surveillance technology which recieved overwhelmingly positive feedback from both professors and peers. The slideshow discussed surveillance cameras and newer facial recognition, behaviour analyzing, AI enhanced software, IoT integration, Cloud-based Software and Storage, and what companies are making and using them on the market currently. It also took a look at newer drone technologies and the history behind them, Wi-Fi and routers being used to sense movement using radio waves and signal patterns, biometrics and their possible security issues, and where your information goes and who is governing it.
+**Overview:**  
+Researched and presented on modern surveillance technologies, focusing on how AI‑enhanced systems, IoT devices, and biometrics are shaping the future of monitoring. Received strong positive feedback from faculty and peers.
 
-**Tech:** Microsoft PowerPoint, Cybersecurity Communication, Data Safety, Surveillance Cameras, Facial Recognition, Feature Vectors, Algorithms, Databases, Behaviour Analyzing, Object Segmentation, Classification, Tracking, Action Recognition, Alerts, AI Enhanced Software, IoT (Internet of Things) Integration, Cloud-based Software and Storage, Drones, Wi-Fi signals, Routers, Radio Waves, Biometrics.
+**Highlights:**  
+- Broke down facial recognition, behaviour analyzing, AI enhanced software, IoT integration, and Cloud-based software and storage regarding surveillance cameras 
+- Delved into how each of those features worked involving feature vectors, algorithms, databases, and alerts
+- Explored drone‑based monitoring and RF‑based motion sensing using routers
+- Spoke about biometrics and their possible security issues
+- Discussed privacy, data governance, and real‑world security concerns
 
-**Links:**  
-
----
-
-### **Helpdesk and Customer Support: Remote Support**
-**Short description:** I deployed the Cloud/SaaS app TeamViewer on two machines, one acting as the technical support end, the other acting as the remote client requesting assistance. Using TeamViewer I was able to easily fix time sync and file retrieval issues.
-
-**Tech:**  
-
-**Links:**  
-
----
-
-### **Enterprise Management and Automation: Creating a Functional WinPE ISO**
-**Short description:** Using Audit Mode on a Windows 11 Pro client I created a functional WinPE ISO after generalizing with Sysprep. I then successfully deployed this ISO to a bare metal target virtual machine with all of the customizations I made in Sysprep. Then on future projects I applied this same ISO - garnering experience in imaging machines and deploying those images.
-
-**Tech:**  OOBE, Sysprep, Windows 11 Pro, Audit Mode, WinPE, ISO, DISM, Mounting Disks, DiskPart, Disk Management, Command Prompt, VMWare, File Explorer, Administrator Mode, Boot Manager.
+**Tech:** PowerPoint, cybersecurity communication, AI‑enhanced software, IoT, biometrics, RF analysis  
 
 **Links:**  
 
 ---
 
-### **NOS Administration: Virtual Small Office Network Implementation**
-**Short description:**  I created a working small office network using VMWare that contains 6 virtual machines; an OPNSense Router and Firewall, a main Domain Controller, a Database, an automated backup Domain Controller, a Windows 11 client, and a Windows 10 client. This virtual network has working firewall rules, FTP server authorization, RADIUS server (NPS), IIS, File Server Resource Manager (FSRM), server roles, group policies, a security and reliability plan (redundancy, firewall ruling, backup strategies), DNS, and DHCP. 
+### **Helpdesk & Customer Support: Remote Support**
+**Overview:**  
+Simulated a real remote‑support workflow using TeamViewer. Troubleshot and resolved client issues including time‑sync failures and file‑retrieval problems.
 
-**Tech:**  VMWare, OPNSense, AD DS, MySQL, Windows Server, FTP, NPS, IIS, FSRM, Windows 10, Windows 11
+**Highlights:**  
+- Deployed and configured TeamViewer on both client and technician endpoints  
+- Practiced safe remote‑access workflows and user communication  
+- Documented troubleshooting steps for repeatability and clarity  
+
+**Tech:** TeamViewer, Windows 11, remote troubleshooting  
 
 **Links:**  
 
 ---
 
-### **Self-Directed Learning: ITIL and CompTIA Certifications**
-**Short description:** While technically in-progress, I believe it's worthwhile to mention my self-directed learning outside of my college education - as IT is an everchanging profession. Currently I am working on acquiring my an ITIL 4 Foundation and CompTIA A+ certifications as they are currently the industry standard for foundational knowledge. While I don't have a singular overarching project for these, I have a series of assignments and tests I've made to prove my learning; I am currently aiming to have acquired them both my the end of 2026. 
+### **Enterprise Management & Automation: WinPE ISO Deployment**
+**Overview:**  
+Created a functional WinPE ISO using Windows 11 Audit Mode, Sysprep, and DISM. Successfully deployed the image to bare‑metal virtual machines and reused it across multiple projects.
 
-**Tech:**  ITIL 4 Foundation, CompTIA A+, Laptops, Printers, Mobile Phones, Networking, SVS, SVC, 
+**Highlights:**  
+- Customized and generalized a Windows 11 image using Sysprep  
+- Built a reusable deployment ISO with DISM and WinPE  
+- Practiced imaging, mounting, and disk‑management workflows  
+- Applied the ISO across multiple lab environments for consistency  
+
+**Tech:** Sysprep, WinPE, DISM, VMWare, DiskPart, Windows 11 Pro  
+
+**Links:**  
+
+---
+
+### **NOS Administration: Virtual Small Office Network**
+**Overview:**  
+Built a functional small‑office network in VMWare with six virtual machines, covering routing, domain services, redundancy, and security controls.
+
+**Highlights:**  
+- Configured OPNsense firewall, VLANs, and routing
+- Built a primary and automated backup Domain Controller
+- Built a database using another server VM and MySQL that could be accessed from any VM with security allowance
+- Built two clients using Windows 10/11.
+- Implemented FTP, NPS (RADIUS), IIS, and FSRM  
+- Created a redundancy, reliability, and backup strategy with documented procedures  
+
+**Tech:** VMWare, OPNsense, AD DS, MySQL, FTP, NPS, IIS, FSRM, Windows 10/11, Windows Server 2025
+
+**Links:**  
+
+---
+
+### **Self‑Directed Learning: ITIL & CompTIA Certifications**
+**Overview:**  
+Actively studying for ITIL 4 Foundation and CompTIA A+ certifications to strengthen foundational IT service and support knowledge. Building practice labs, notes, and assignments to reinforce learning.
+
+**Highlights:**  
+- Developing structured study notes and practice assignments  
+- Building hands‑on labs for hardware, networking, and service workflows
+- Applying CompTIA concepts to real scenarios working with networking, printers, laptops, and mobile devices  
+- Applying ITIL concepts to real troubleshooting and support scenarios  
+
+**Tech:** ITIL 4, CompTIA A+, hardware fundamentals, networking, service management  
 
 **Links:**  
 
