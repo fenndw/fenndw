@@ -71,9 +71,9 @@ I'm a technically driven problem‑solver with experience leading complex integr
 ---
 
 ### **Self-Directed Learning: ITIL and CompTIA Certifications**
-**Short description:**  
+**Short description:** While technically in-progress, I still think it's worthwhile to mention my self-directed learning outside of my college education - as IT is an everchanging profession. Currently I am working on acquiring my an ITIL 4 Foundation and CompTIA A+ certifications as they are currently the industry standard for foundational knowledge. While I don't have a singular overarching project for these, I have a series of assignments and tests I've made to prove my learning; I am currently aiming to have acquired them both my the end of 2026. 
 
-**Tech:**  
+**Tech:**  ITIL 4 Foundation, CompTIA A+, Laptops, Printers, Mobile Phones, Networking, SVS, SVC, 
 
 **Links:**  
 
