@@ -150,6 +150,9 @@ Actively studying for ITIL 4 Foundation and CompTIA A+ certifications to strengt
 - **GitHub:** https://github.com/fenndw
 
 ---
-
+<div align="center">
+  
 [About Me](#about-me) • [Projects](#projects) • [Skills](#skills--technologies) • [Contact](#contact)
+
+</div>
 
