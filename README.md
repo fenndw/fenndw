@@ -148,4 +148,7 @@ Actively studying for ITIL 4 Foundation and CompTIA A+ certifications to strengt
 - **LinkedIn:** www.linkedin.com/in/fenn-wetherall-0348b2351  
 - **GitHub:** https://github.com/fenndw
 
-[Contact Me](#contact) • [Projects](#projects) • [Skills](#skills--technologies)
+---
+
+[About Me](#about-me) • [Projects](#projects) • [Skills](#skills--technologies) • [Contact](#contact)
+
