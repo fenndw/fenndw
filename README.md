@@ -7,7 +7,7 @@
 I build reliable systems by combining hardware, firmware, OS, networking, and security into cohesive solutions.  
 Passionate about troubleshooting, teamwork, and solving problems to make other's day's go a little bit easier.
 
-[Contact Me](#contact) • [Projects](#projects--work) • [Skills](#skills--technologies)
+[Contact Me](#contact) • [Projects](#projects) • [Skills](#skills)
 
 </div>
 
