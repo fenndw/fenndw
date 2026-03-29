@@ -44,7 +44,7 @@ I'm a technically driven problem‑solver with experience leading complex integr
 ---
 
 ### **Helpdesk and Customer Support: Remote Support**
-**Short description:** 
+**Short description:** I deployed the Cloud/SaaS app TeamViewer on two machines, one acting as the technical support end, the other acting as the remote client requesting assistance. Using TeamViewer I was able to easily fix time sync and file retrieval issues.
 
 **Tech:**  
 
@@ -53,27 +53,18 @@ I'm a technically driven problem‑solver with experience leading complex integr
 ---
 
 ### **Enterprise Management and Automation: Creating a Functional WinPE ISO**
-**Short description:**  
+**Short description:** Using Audit Mode on a Windows 11 Pro client I created a functional WinPE ISO after generalizing with Sysprep. I then successfully deployed this ISO to a bare metal target virtual machine with all of the customizations I made in Sysprep. Then on future projects I applied this same ISO - garnering experience in imaging machines and deploying those images.
 
-**Tech:**  
-
-**Links:**  
-
----
-
-### **NOS Administration: Virtual Small Office Network Implementation**
-**Short description:**  
-
-**Tech:**  
+**Tech:**  OOBE, Sysprep, Windows 11 Pro, Audit Mode, WinPE, ISO, DISM, Mounting Disks, DiskPart, Disk Management, Command Prompt, VMWare, File Explorer, Administrator Mode, Boot Manager.
 
 **Links:**  
 
 ---
 
 ### **NOS Administration: Virtual Small Office Network Implementation**
-**Short description:**  
+**Short description:**  I created a working small office network using VMWare that contains 6 virtual machines; an OPNSense Router and Firewall, a main Domain Controller, a Database, an automated backup Domain Controller, a Windows 11 client, and a Windows 10 client. This virtual network has working firewall rules, FTP server authorization, RADIUS server (NPS), IIS, File Server Resource Manager (FSRM), server roles, group policies, a security and reliability plan (redundancy, firewall ruling, backup strategies), DNS, and DHCP. 
 
-**Tech:**  
+**Tech:**  VMWare, OPNSense, AD DS, MySQL, Windows Server, FTP, NPS, IIS, FSRM, Windows 10, Windows 11
 
 **Links:**  
 
