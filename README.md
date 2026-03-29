@@ -38,7 +38,7 @@ Led a 4‑person team to design and deploy a mid‑complexity network infrastruc
 
 **Tech:** Windows 11, Windows Server 2025, Hyper‑V, OPNsense, Security Onion, Wazuh, MySQL, Unifi gear, DNS/DHCP, Windows Firewall, Rufus imaging  
 
-**Links:** [Fort-Faux](#)
+**Links:** [Fort-Faux](https://github.com/fenndw/Fort-Faux-Capstone)
 
 ---
 
