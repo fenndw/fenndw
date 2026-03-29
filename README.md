@@ -91,7 +91,7 @@ I'm a technically driven problem‑solver with experience leading complex integr
 | Category | Tools |
 |---------|-------|
 | **Languages** | PowerShell, Bash, SQL, Markdown |
-| **OS** | Windows (Home, Pro, Server of varying generations), Linux (Ubuntu, Debian, Fedora), embedded systems |
+| **OS** | Windows (Home, Pro, Server; of varying generations), Linux (Ubuntu, Debian, Fedora), embedded systems |
 | **Networking** | VLANs, routing, DHCP/DNS, virtual networks |
 | **Tools** | Git, Docker, Wireshark, Hyper‑V/VMware/Azure, Security Onion, Wazuh |
 | **Security** | Hardening, patching, access control, logging, monitoring |
