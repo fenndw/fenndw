@@ -43,30 +43,47 @@ I'm a technically driven problem‑solver with experience leading complex integr
 
 ---
 
-### **Project Title**
-**Short description:**  
+### **Helpdesk and Customer Support: Remote Support**
+**Short description:** 
+
 **Tech:**  
+
 **Links:**  
 
 ---
 
-### **Project Title**
+### **Enterprise Management and Automation: Creating a Functional WinPE ISO**
 **Short description:**  
+
 **Tech:**  
+
 **Links:**  
 
 ---
 
-### **Project Title**
+### **NOS Administration: Virtual Small Office Network Implementation**
 **Short description:**  
+
 **Tech:**  
+
 **Links:**  
 
 ---
 
-### **Project Title**
+### **NOS Administration: Virtual Small Office Network Implementation**
 **Short description:**  
+
 **Tech:**  
+
+**Links:**  
+
+---
+
+### **Self-Directed Learning: ITIL and CompTIA Certifications**
+**Short description:**  
+
+**Tech:**  
+
 **Links:**  
 
 ---
