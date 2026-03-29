@@ -55,7 +55,7 @@ Researched and presented on modern surveillance technologies, focusing on how AI
 
 **Tech:** PowerPoint, cybersecurity communication, AI‑enhanced software, IoT, biometrics, RF analysis  
 
-**Links:** [Surveillance-Technology](#)
+**Links:** [Surveillance-Technology](https://github.com/fenndw/Surveillance-Tech-Presentation)
 
 ---
 
@@ -70,7 +70,7 @@ Simulated a real remote‑support workflow using TeamViewer. Troubleshot and res
 
 **Tech:** TeamViewer, Windows 11, remote troubleshooting  
 
-**Links:** [Remote-Support](#)
+**Links:** [Remote-Support](https://github.com/fenndw/Remote-Support-Lab)
 
 ---
 
@@ -86,7 +86,7 @@ Created a functional WinPE ISO using Windows 11 Audit Mode, Sysprep, and DISM. S
 
 **Tech:** Sysprep, WinPE, DISM, VMWare, DiskPart, Windows 11 Pro  
 
-**Links:**  [Image-Deployment](#)
+**Links:**  [Image-Deployment](https://github.com/fenndw/Imaging-Deployment-Lab)
 
 ---
 
@@ -104,7 +104,7 @@ Built a functional small‑office network in VMWare with six virtual machines, c
 
 **Tech:** VMWare, OPNsense, AD DS, MySQL, FTP, NPS, IIS, FSRM, Windows 10/11, Windows Server 2025
 
-**Links:**  [Virtual-Small-Office-Network](#)
+**Links:**  [Virtual-Small-Office-Network](https://github.com/fenndw/Small-Office-Network-Project)
 
 ---
 
@@ -120,7 +120,7 @@ Actively studying for ITIL 4 Foundation and CompTIA A+ certifications to strengt
 
 **Tech:** ITIL 4, CompTIA A+, hardware fundamentals, networking, service management  
 
-**Links:**  [ITIL-CompTIA](#)
+**Links:**  [ITIL-CompTIA](https://github.com/fenndw/ITIL-CompTIA-Learning)
 
 ---
 
