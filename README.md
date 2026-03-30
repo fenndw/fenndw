@@ -2,10 +2,14 @@
 <div align="center">
   
 # Hullo, I'm Fenn!
-### Aspiring IT Technician • Fervent Learner • Network Infrastructure Enthusiast  
+### Aspiring IT Technician • Fervent Learner • NSCC Systems Management and Security Student  
 
-I build reliable systems by combining hardware, firmware, OS, networking, and security into cohesive solutions.  
-Passionate about troubleshooting, teamwork, and solving problems to make other's day's go a little bit easier.
+After taking a gap year, I knew I wanted to pursue post‑secondary education, but I wasn’t sure which direction to take. A close friend encouraged me to look into NSCC’s IT Systems Management and Security program, believing I would thrive in a technical, hands‑on environment. Their confidence in me became the spark that pushed me to commit fully to this path — and now, here I am at the end of my diploma.
+
+At this point I am still exploring exactly what type of IT career I want to pursue but I know that I want to help people in some way; anytime I feel like I've made someone's day go by a little easier I feel fulfilled. 
+
+Through my work at NSCC, I can now build reliable systems by combining hardware, firmware, OS, networking, and security into cohesive solutions.  
+And I've developed a passion for troubleshooting, teamwork, and solving problems that genuinely improve someone’s experience.
 
 [About Me](#about-me) • [Projects](#projects) • [Skills](#skills--technologies) • [Contact](#contact)
 
