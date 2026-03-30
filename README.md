@@ -142,7 +142,7 @@ Actively studying for ITIL 4 Foundation and CompTIA A+ certifications to strengt
 | **Languages** | PowerShell, Bash, SQL, Markdown |
 | **OS** | Windows (Home, Pro, Server; of varying generations), Linux (Ubuntu, Debian, Fedora), embedded systems |
 | **Networking** | VLANs, routing, DHCP/DNS, virtual networks |
-| **Tools** | Git, Docker, Wireshark, Hyper‑V/VMware/Azure, Security Onion, Wazuh |
+| **Tools** | Git, Docker, Wireshark, Hyper‑V/VMware/Azure, Security Onion, Wazuh, WinPE, DISM, Windows ADK|
 | **Security** | Hardening, patching, access control, logging, monitoring |
 
 ---
