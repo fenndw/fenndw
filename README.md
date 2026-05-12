@@ -2,7 +2,7 @@
 <div align="center">
   
 # Hullo, I'm Fenn!
-### Aspiring IT Technician • Fervent Learner • NSCC Systems Management and Security Student  
+### IT Technician • Fervent Learner • NSCC Systems Management and Security Graduate  
 
 After taking a gap year, I knew I wanted to pursue post‑secondary education, but I wasn’t sure which direction to take. A close friend encouraged me to look into NSCC’s IT Systems Management and Security program, believing I would thrive in a technical, hands‑on environment. Their confidence in me became the spark that pushed me to commit fully to this path — and now, here I am at the end of my diploma.
 
